@@ -5,7 +5,7 @@ int main(){
     for(int i=0;i<n;i++){
         printf("%d ",arr[i]);
     }
-    printf("\nREverse order\n");
+    printf("\nReverse order\n");
     for(int j=n-1;j>=0;j--){
             printf("%d ",arr[j]);
     }
